@@ -9,7 +9,7 @@ public class Count {
 	}
 
 	public void increment() {
-		value +=2;
+		value +=1;
 		
 	}
 
